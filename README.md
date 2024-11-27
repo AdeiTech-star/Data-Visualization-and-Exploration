@@ -1,7 +1,8 @@
 # Data Visualisation and Exploration Portfolio
 Welcome to my Data Visualisation and Exploration portfolio! This repository contains projects and assignments inspired by my coursework, which focused on the statistical and mathematical foundations of data science, as well as practical applications in Python. Here, you’ll find implementations and visualizations designed to analyze, clean, and present data effectively.
-
+----------------------------------------------------
 📚 Course Overview
+
 This course emphasized the mathematical and statistical underpinnings of data visualization and exploration, with a strong focus on:
 
 Statistical data description and analysis
@@ -17,20 +18,23 @@ Handling missing data
 Outlier detection and treatment
 Data normalization and standardization
 Code examples using libraries like Pandas and NumPy
-2. Descriptive Statistics and Visualization
+--------------------------------------
+3. Descriptive Statistics and Visualization
 Exploring datasets using summary statistics
 Visualizing data distributions using:
 Histograms
 Box plots
 Violin plots
 Implemented using Matplotlib, Seaborn, and Plotly
-3. Feature Engineering and Selection
+----------------------------------------
+5. Feature Engineering and Selection
 Techniques for creating and selecting meaningful features:
 Encoding categorical variables
 Feature scaling (e.g., Min-Max, Standard Scaler)
 Recursive Feature Elimination (RFE)
 Examples of real-world datasets where feature selection was applied to improve model performance.
-4. Dimensionality Reduction
+-------------------------------------------------------
+7. Dimensionality Reduction
 Linear Techniques
 Principal Component Analysis (PCA)
 Linear Discriminant Analysis (LDA)
@@ -42,24 +46,28 @@ Kernel PCA
 Self-Organizing Maps (SOMs)
 Laplacian Eigenmaps
 Visualizing the effect of non-linear techniques on high-dimensional datasets.
-5. Time Series Analysis
+--------------------------------------------------------
+9. Time Series Analysis
 Methods for analyzing temporal datasets:
 Stationarity and Autocorrelation
 Seasonality and Trend Analysis
 Fourier Transforms
 Spectrograms and Scaleograms
 Sample project: Trend forecasting and anomaly detection in time series data.
-6. Clustering Techniques
+-------------------------------------------------------------
+11. Clustering Techniques
 Implementations of popular clustering algorithms:
 K-Means Clustering
 DBSCAN
 Hierarchical Clustering
 Applications in market segmentation and customer behavior analysis.
-7. Geospatial Data Visualization
+-----------------------------------------------------------
+13. Geospatial Data Visualization
 Working with geospatial datasets to map data:
 Using GeoPandas and Folium
 Interactive maps showcasing spatial patterns and distributions.
-8. Presenting Data
+-------------------------------------------------------------
+15. Presenting Data
 Building dashboards using Dash and Plotly for interactive data exploration.
 Best practices for presenting data, including:
 Applying basic color theory to improve visual appeal
@@ -92,8 +100,9 @@ Dash: Building interactive dashboards
 Adding more case studies involving real-world datasets
 Incorporating advanced time series forecasting methods (e.g., ARIMA, LSTM)
 Exploring additional non-linear dimensionality reduction techniques
+--------------------------------------
 📬 Contact
 Feel free to reach out with any questions or feedback!
 
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profile]
+Email: nthabisengadelaidethema20@gmail.com
+LinkedIn: https://www.linkedin.com/in/nthabiseng-thema-981b25152/
