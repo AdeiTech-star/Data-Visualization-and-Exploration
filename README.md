@@ -72,6 +72,7 @@ Building dashboards using Dash and Plotly for interactive data exploration.
 Best practices for presenting data, including:
 Applying basic color theory to improve visual appeal
 Designing intuitive and user-friendly interfaces.
+-----------------------
 🎯 Learning Outcomes
 By completing these projects, I gained hands-on experience in:
 
@@ -81,21 +82,29 @@ Using advanced visualization tools to make data accessible
 Combining domain knowledge with technical skills to tell compelling data stories
 🚀 How to Use This Repository
 Clone the repository:
+
 bash
+
 Copy code
+
 git clone https://github.com/username/repository-name.git
+
 Navigate through the folders to explore individual projects.
+------------
 Each project contains:
 A Jupyter Notebook with step-by-step implementations
+
 Input datasets (where applicable)
+
 Visualization outputs and conclusions
+-----------------------------
 🛠 Tools and Libraries Used
-Python: Primary programming language
-Pandas, NumPy: Data manipulation and processing
-Matplotlib, Seaborn, Plotly: Data visualization
-Scikit-learn: Machine learning and dimensionality reduction
-GeoPandas, Folium: Geospatial analysis
-Dash: Building interactive dashboards
+Python: Primary programming language\\
+Pandas, NumPy: Data manipulation and processing\\
+Matplotlib, Seaborn, Plotly: Data visualization\\
+Scikit-learn: Machine learning and dimensionality reduction\\
+GeoPandas, Folium: Geospatial analysis\\
+-----------
 📈 Future Improvements
 Adding more case studies involving real-world datasets
 Incorporating advanced time series forecasting methods (e.g., ARIMA, LSTM)
