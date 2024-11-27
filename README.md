@@ -123,4 +123,5 @@ Exploring additional non-linear dimensionality reduction techniques
 Feel free to reach out with any questions or feedback!
 
 Email: nthabisengadelaidethema20@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/nthabiseng-thema-981b25152/
