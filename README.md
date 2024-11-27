@@ -99,16 +99,25 @@ Input datasets (where applicable)
 Visualization outputs and conclusions
 -----------------------------
 🛠  Tools and Libraries Used
-**Python: Primary programming language\\
-Pandas, NumPy: Data manipulation and processing\\
-Matplotlib, Seaborn, Plotly: Data visualization\\
-Scikit-learn: Machine learning and dimensionality reduction\\
-GeoPandas, Folium: Geospatial analysis\\
+
+Python: Primary programming language
+
+Pandas, NumPy: Data manipulation and processing
+
+Matplotlib, Seaborn, Plotly: Data visualization
+
+Scikit-learn: Machine learning and dimensionality reduction
+
+GeoPandas, Folium: Geospatial analysis
+
 -----------
 📈 Future Improvements
 Adding more case studies involving real-world datasets
+
 Incorporating advanced time series forecasting methods (e.g., ARIMA, LSTM)
-Exploring additional non-linear dimensionality reduction techniques******
+
+Exploring additional non-linear dimensionality reduction techniques
+
 --------------------------------------
 📬 Contact
 Feel free to reach out with any questions or feedback!
